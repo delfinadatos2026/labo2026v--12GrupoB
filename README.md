@@ -22,7 +22,6 @@
 > **Hipótesis del Grupo B:**  
 > *"A medida que se incrementa el espacio de búsqueda con nuevos hiperparámetros en la Optimización Bayesiana, se produce una mejora estadísticamente significativa de la ganancia del conjunto de testing (Julio 2021) respecto al baseline."*
 
-* **Criterio de Mejora Significativa:** Se considerará una mejora estadísticamente significativa a un incremento **$\ge 5\%$** en la ganancia del conjunto de testing respecto al *baseline*.
 
 ---
 
