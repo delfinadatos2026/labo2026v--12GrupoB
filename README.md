@@ -105,14 +105,14 @@ Tras 6 horas de debugging manual con impresiones de control previas a la llamada
 
 Se aplicó la prueba no paramétrica de Wilcoxon ($N=10$) para evaluar si existían diferencias estadísticamente significativas ($\alpha = 0.05$):
 
-| Comparación | Pregunta Experimental | P-Valor ($N=10$) | ¿Diferencia Significativa? | Veredicto |
+| Comparación | Pregunta Experimental | P-Valor ($N=10$) | ¿Diferencia Significativa? | 
 | :--- | :--- | :---: | :---: | :---: |
-| **Exp. A vs Exp. B** | ¿Aumentar de 5 a 11 HPs suma valor? | `0.1309` | No | **Empate** |
-| **Exp. A vs Exp. C (14 HP)** | ¿Pasar de 5 a 14 HPs (Seguro) suma valor? | `0.2754` | No | **Empate** |
-| **Exp. A vs Exp. C (16 HP)** | ¿Pasar de 5 a 16 HPs (Cuantización) suma valor? | `0.1309` | No | **Empate** |
-| **Exp. B vs Exp. C (14 HP)** | ¿Balance/nodo suma valor sobre Exp. B? | `1.0000` | No | **Empate** |
-| **Exp. B vs Exp. C (16 HP)** | ¿Vale la pena la cuantización frente a B? | `0.8457` | No | **Empate** |
-| **Exp. C (14 HP) vs Exp. C (16 HP)** | ¿Cuantización vs. Alternativo Seguro? | `0.6250` | No | **Empate** |
+| **Exp. A vs Exp. B** | ¿Aumentar de 5 a 11 HPs suma valor? | `0.1309` | No | 
+| **Exp. A vs Exp. C (14 HP)** | ¿Pasar de 5 a 14 HPs (Seguro) suma valor? | `0.2754` | No | 
+| **Exp. A vs Exp. C (16 HP)** | ¿Pasar de 5 a 16 HPs (Cuantización) suma valor? | `0.1309` | No | 
+| **Exp. B vs Exp. C (14 HP)** | ¿Balance/nodo suma valor sobre Exp. B? | `1.0000` | No | 
+| **Exp. B vs Exp. C (16 HP)** | ¿Vale la pena la cuantización frente a B? | `0.8457` | No | 
+| **Exp. C (14 HP) vs Exp. C (16 HP)** | ¿Cuantización vs. Alternativo Seguro? | `0.6250` | No | 
 
 ---
 
