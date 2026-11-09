@@ -1,6 +1,6 @@
 [readme_md.md](https://github.com/user-attachments/files/34602916/readme_md.md)
 # Experimento 12: Hyperparameter Tuning — Optimización Bayesiana
-
+* **VIDEO:** https://www.youtube.com/watch?v=otEz1TjfxvU
 > **¿Es funcional una Optimización Bayesiana que intente optimizar más hiperparámetros al mismo tiempo?**
 
 ---
