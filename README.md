@@ -106,7 +106,7 @@ Tras 6 horas de debugging manual con impresiones de control previas a la llamada
 Se aplicó la prueba no paramétrica de Wilcoxon ($N=10$) para evaluar si existían diferencias estadísticamente significativas ($\alpha = 0.05$):
 
 | Comparación | Pregunta Experimental | P-Valor ($N=10$) | ¿Diferencia Significativa? | 
-| :--- | :--- | :---: | :---: | :---: |
+| :--- | :--- | :---: | :---: |
 | **Exp. A vs Exp. B** | ¿Aumentar de 5 a 11 HPs suma valor? | `0.1309` | No | 
 | **Exp. A vs Exp. C (14 HP)** | ¿Pasar de 5 a 14 HPs (Seguro) suma valor? | `0.2754` | No | 
 | **Exp. A vs Exp. C (16 HP)** | ¿Pasar de 5 a 16 HPs (Cuantización) suma valor? | `0.1309` | No | 
